@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thejaketech
+- 👀 I’m interested in HTML/CSS/JS/PHP and other
+- 🌱 I’m currently learning in BrRTU
+- 📫 How to reach me thejaketech2@gmail.com or telegram @thejaketech
